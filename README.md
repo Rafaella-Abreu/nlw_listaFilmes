@@ -19,4 +19,3 @@ Projeto construído do evento Next Level Week da Rocketseat.
 rafaellaabreud@hotmail.com
 
 
-## 📅 Data: 09/2022
